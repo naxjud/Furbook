@@ -1,7 +1,7 @@
 #logo{
     color:#2f5e92;
     font-weight: 700;
-    font-size:1.35rem;
+    font-size:2.35em;
     float:left;
     margin:0;
 }
@@ -9,7 +9,7 @@ nav{
     float:right
 }
 nav a{
-    color:#2f5e92;
+    color:#292929;
     font-weight:700;
     text-decoration: none;
     margin-left: 2rem;
